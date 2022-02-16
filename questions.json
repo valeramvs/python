@@ -1,0 +1,64 @@
+{
+  "question_1":
+    {
+      "question": "Which is the tallest animal on the earth?",
+      "author": "Ivanov I.I.",
+      "level": "2/5",
+      "answer": [
+        "Giraffe",
+        "giraffe"
+      ],
+      "theme": "animal"
+    }
+  ,
+  "question_2":
+    {
+      "question": "Which festival is called the festival of light?",
+      "author": "Stefanov I.I.",
+      "level": "5/5",
+      "answer": [
+        "Diwali",
+        "diwali"
+      ],
+      "theme": "event"
+    }
+  ,
+  "question_3":
+    {
+      "question": "What is the top color in a rainbow?",
+      "author": "Popov I.I.",
+      "level": "1/5",
+      "answer": [
+        "Red",
+        "red"
+      ],
+      "theme": "weather"
+    }
+  ,
+  "question_4":
+    {
+      "question": "What type of bird lays the largest eggs?",
+      "author": "Egger I.I.",
+      "level": "3/5",
+      "answer": [
+        "Ostrich",
+        "ostrich"
+      ],
+      "theme": "animal"
+    },
+  "question_5":
+    {
+      "question": "How many hours are there in two days?",
+      "author": "Muller I.I.",
+      "level": "2/5",
+      "answer": [
+        "48 hours",
+        "48",
+        "forty-eight",
+        "forty eight",
+        "Forty-eight",
+        "Forty eight"
+      ],
+      "theme": "time"
+    }
+}
